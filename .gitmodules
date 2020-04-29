@@ -1,0 +1,3 @@
+[submodule "easy-ear-trainer"]
+	path = easy-ear-trainer
+	url = https://github.com/SuperGoldenZ/easy-ear-trainer.git
