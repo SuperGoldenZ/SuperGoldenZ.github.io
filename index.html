@@ -1,0 +1,28 @@
+<html>
+		<head>
+			<link rel="stylesheet" href="./jsRapPiano/jsRapPiano.css">
+			<link rel="stylesheet" href="./earTrainer.css">
+			<script src="jquery-3.3.1.slim.min.js"></script>
+			<script src="./jsRapPiano/jsRapPiano.js"></script>
+			<script src="jquery.speak.js"></script>
+			<script src = "earTrainer.js"></script>
+			<title>Ear Trainer</title>
+		</head>
+		<body>
+				<button onclick="playRandomNote()">Play Random Note</button>
+				<button onclick="playNoteAgain()">Play Note Again</button>
+
+				<div class = "midi_interfaces">
+					MIDI Output:
+					<select id = "midi_outputs"></select>
+					
+					MIDI Input:
+					<select id = "midi_inputs"></select>
+				</div>
+				
+				<br/>
+				<div id = "noteDisplay"> </div><br/><br/>
+				<br/><br/>
+				<div id = "pianoInput"></div>					
+		</body>
+</html>
