@@ -1,3 +1,6 @@
 [submodule "easy-ear-trainer"]
 	path = easy-ear-trainer
 	url = https://github.com/SuperGoldenZ/easy-ear-trainer.git
+[submodule "everyone-vgmusic"]
+	path = everyone-vgmusic
+	url = https://github.com/SuperGoldenZ/everyone-vgmusic.git
