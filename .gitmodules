@@ -4,3 +4,6 @@
 [submodule "everyone-vgmusic"]
 	path = everyone-vgmusic
 	url = https://github.com/SuperGoldenZ/everyone-vgmusic.git
+[submodule "kanji-handwriting-drillpad"]
+	path = kanji-handwriting-drillpad
+	url = https://github.com/SuperGoldenZ/kanji-handwriting-drillpad.git
